@@ -1,0 +1,5 @@
+DATABASE_NAME=rails_development
+DATABASE_USER=sandeep
+DATABASE_PASSWORD=sisteract2
+DATABASE_HOST=database
+REDIS_HOST=redis

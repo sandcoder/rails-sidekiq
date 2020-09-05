@@ -1,0 +1,2 @@
+CREATE USER sandeep;
+ALTER USER sandeep WITH SUPERUSER;
